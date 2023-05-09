@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tsaihemanth150](https://github.com/tsaihemanth150)
 
-- 💬 Ask me about **React, Pen-testing , Django, Full stack Development,**
+- 💬 Ask me about **React, Pen-testing , MEARN, Django, Full stack Development,**
 
 - 📫 How to reach me **tsaihemanth15@gmail.com**
 
